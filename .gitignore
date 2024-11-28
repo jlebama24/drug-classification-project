@@ -1,0 +1,12 @@
+# Ignore les fichiers temporaires et dossiers générés automatiquement
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Ignore les fichiers de données brutes (si nécessaires)
+data/raw/
+*.csv
+
+# Environnements virtuels
+venv/
+.env
